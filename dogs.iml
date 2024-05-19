@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/dogs">
+      <sourceFolder url="file://$MODULE_DIR$/dogs/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dogs/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a30dd994-45a0-4327-9c87-d4519424b650" />
+  </component>
+</module>
